@@ -1,5 +1,5 @@
 ### Aldığım Dersler
-- *Random & Stochastic Processes* - Mustafa Dağtekin
+- *Random & Stochastic Processes* - **Mustafa Dağtekin**
     - Her hafta ödev paylaşımı 
     - [Piazza](https://piazza.com/class/jrlqx3mct3144v?cid=20)
     - [Yandex'deki dersler](https://yadi.sk/d/AFLD-AZp2BbeQg/lectures)
