@@ -33,6 +33,6 @@
 | Salı       | **Computer Networks and Technologies** | *Y.Doç.Dr.Zeynep G. AYDIN*      | 12.30 – 13.45 | D301 – D202 – D701               |
 | Salı       | **Software Testing and Quality**       | *Doç.Dr. Rüya ŞAMLI*            | 15.20 – 16.35 | D202 – D701                      |
 | Çarşamba   | **İş Sağlığı ve Güvenliği**            | *Adem ÇINARLI*                  | 09.50 – 11.05 | Grup 1→ D701-D711-D721-D724-D731 |
-| Perşembe   | **Görüntü İşleme**                     | *Dr.Öğr.Üyesi Fatih KELEŞ*      | 18.00 – 19.15 | A311 – A312 - D202               |
+| Perşembe   | **Görüntü İşleme**                     | *Y.Doç.Dr. Selçuk SEVGEN*       | 15.20 – 16.35 | D521 - D515               |
 | Cuma       | **Bilgisayar Mimarisi**                | *Prof.Dr. Ahmet SERTBAŞ*        | 14.00 – 15.15 | D203 – D701 – D202 – D515        |
 | Cuma       | **Introduction to Programming**        | *Y.Doç.Dr.Özgür Can TURNA*      | 18.00 – 19.15 | A311 – D301 – D202 - D701 – D521 |
