@@ -1,5 +1,10 @@
 ### Aldığım Dersler
 
+![GitHub last commit](https://img.shields.io/github/last-commit/afozbek/2019-Bahar.svg?label=Son%20G%C3%BCncelleme&style=popout)
+![GitHub](https://img.shields.io/github/license/afozbek/2019-Bahar.svg?label=Lisans&style=popout)
+![made_with_Markdown](https://img.shields.io/badge/%C4%B0%C3%A7erik-Markdown-blue.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/afozbek/2019-Bahar.svg?label=Boyut&style=popout)
+
 
 | Sınav Tarihi       | Dersin Adı                             | Dersin Öğretim Görevlisi        | Sınav Saati   | Sınav Yeri                        |
 | ------------------ | -------------------------------------- | ------------------------------- | ------------- | --------------------------------- |
